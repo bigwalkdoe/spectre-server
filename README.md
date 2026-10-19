@@ -1,4 +1,4 @@
-# Spectre Server Layer
+# Spectre Server
 
 [![CI](https://github.com/bigwalkdoe/spectre-server-layer/actions/workflows/ci.yml/badge.svg)](https://github.com/bigwalkdoe/spectre-server-layer/actions/workflows/ci.yml)
 
